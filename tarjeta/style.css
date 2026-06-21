@@ -52,9 +52,12 @@
 
 .profession{
     font-size: 16px;
+    color: rgb(204, 0, 255);
+    font-weight: ;
     
 }
 .phrase {
     font-style: italic;
     font-size: 10px;
+    color: brown;
 }
